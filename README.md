@@ -3,6 +3,8 @@
 A simple and devotional **Flutter application** that allows users to read the sacred **Hanuman Chalisa** on their mobile devices.
 The app is designed to provide a clean and distraction-free experience for devotees.
 
+![HanumanChalisaDemo](https://github.com/KrishBharadwaj5678/HanumanChalisa/raw/main/HanumanChalisaDemo.jpeg)
+
 ## 📱 Features
 
 | Feature                 | Description                                            |
