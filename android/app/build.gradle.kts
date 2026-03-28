@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.hanumanchalisa"
+    namespace = "com.krishlabs.hanumanchalisa"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
