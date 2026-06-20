@@ -27,12 +27,9 @@ The app is designed to provide a clean and distraction-free experience for devot
 | 🤖 **Android SDK**              | Used to build and run the app on Android devices           |
 | 💻 **VS Code**                 | Development environment for coding and debugging           |
 
-
 ---
 
 ## 🚀 Getting Started
-
-Follow these steps to run the project locally.
 
 ### 1️⃣ Clone the Repository
 
@@ -57,15 +54,3 @@ flutter pub get
 ```
 flutter run
 ```
-
----
-
-## Contributing 🤝
-
-Want to contribute? Here's how:
-
-1. 🍴 Fork the repository.
-2. 🌿 Create a new branch (`git checkout -b feature-name`).
-3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
-4. 🚀 Push to your branch (`git push origin feature-name`).
-5. 🔄 Submit a pull request to merge into the main branch.
