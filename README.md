@@ -1,3 +1,5 @@
+[English](README.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
+
 # 🕉️ Hanuman Chalisa App
 
 A simple and devotional **Flutter application** that allows users to read the sacred **Hanuman Chalisa** on their mobile devices.
